@@ -6,7 +6,7 @@ I'm a recent college grad looking for jobs in data and software development.
 
 I'm currently educating myself on machine learning and working through a python bootcamp to further my skillset while I look for jobs.
 
-Feel free to contact me through my Linkedin profile, attached to this page.
+Feel free to contact me through my Linkedin profile, linked on the left side of this page.
 
 <!--
 **mtzingarella/mtzingarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
